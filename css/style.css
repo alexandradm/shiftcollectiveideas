@@ -13,8 +13,11 @@ body {
   background-color: #000000 !important;
 }
 
-.dnlogo {
-  padding-right: 10px;
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
 }
 
 .navbar-brand {
@@ -25,32 +28,18 @@ body {
   color: #FFF !important;
   text-transform: uppercase;
   font-weight: bold;
-  padding-left: 15px;
+  padding-left: 20px;
 }
 .nav-item a:hover {
    color: #55acee !important;
 }
-/*
-.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link {
-  color: #ffffff;
-}
-
-.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
-  color: yellow;
-} */
-
-/* colors from logo
- #ff958d - peach
- #a0be83 - green
- #9fbfc6 - blue
- #9e7b9c - lavender
- */
 
 a {
-   color: #55acee;
+   color: red;
+
 }
 a:hover {
-  color: black;
+  text-decoration: none;
 }
 
 .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link {
