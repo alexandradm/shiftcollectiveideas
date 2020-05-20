@@ -3,6 +3,9 @@ body {
   padding-top: 50px;
   font-family: 'Museo Sans', sans-serif;
 }
+.height {
+  height: 95vh;
+}
 
  .bg-dark {
   background-color: #000000 !important;
