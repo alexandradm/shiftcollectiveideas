@@ -6,7 +6,7 @@
 
 body {
   padding-top: 50px;
-  font-family: 'Helvetica Neue', sans-serif;
+  font-family: 'museo-sans', sans-serif;
 }
 
  .bg-dark {
@@ -35,12 +35,16 @@ body {
    background-color: yellow !important;
 }
 
-a {
-   color: red;
+p a {
+   color: black;
+   font-weight: 500;
+   background-color: yellow;
 
 }
-a:hover {
+p a:hover {
   text-decoration: none;
+  background-color: black;
+  color: yellow;
 }
 
 .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link {
@@ -48,6 +52,7 @@ a:hover {
 }
 h2 {
   text-align: center;
+  font-family:"Museo Sans W01 300", sans-serif;
   padding-bottom: 10px;
 }
 
