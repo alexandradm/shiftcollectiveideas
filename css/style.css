@@ -1,12 +1,7 @@
-/*!
- * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
- * Copyright 2013-2017 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
- */
 
 body {
   padding-top: 50px;
-  font-family: 'museo-sans', sans-serif;
+  font-family: 'Museo Sans', sans-serif;
 }
 
  .bg-dark {
@@ -52,13 +47,16 @@ p a:hover {
 }
 h2 {
   text-align: center;
-  font-family:"Museo Sans W01 300", sans-serif;
+  font-family:"Museo Sans", sans-serif;
+  font-weight: 600;
   padding-bottom: 10px;
 }
 
 h3 {
   font-size: 14pt;
   color: black;
+  font-family:"Museo Sans", sans-serif;
+  font-weight: 400;
   text-align: center;
   text-transform: uppercase;
 }
