@@ -55,13 +55,12 @@ h2 {
   padding-bottom: 10px;
 }
 
-h2 a {
+h2 a, h3 a {
    color: black;
-   font-weight: 500;
    background-color: yellow;
 
 }
-h2 a:hover {
+h2 a:hover, h3 a:hover {
   text-decoration: none;
   background-color: black;
   color: yellow;
