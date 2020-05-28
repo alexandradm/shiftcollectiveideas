@@ -71,6 +71,7 @@ h2 {
 h2 a, h3 a {
    color: black;
    background-color: #9FCEDE;
+   border: 3px solid #3E9FBF;
    padding: 2px;
    padding-right: 4px;
    padding-left: 4px;
@@ -78,8 +79,8 @@ h2 a, h3 a {
 }
 h2 a:hover, h3 a:hover {
   text-decoration: none;
-  background-color: black;
-  color: #9FCEDE;
+  background-color: #3E9FBF;
+  color: black;
   padding: 2px;
   padding-right: 4px;
   padding-left: 4px;
